@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a Schimdt Sciences visiting researcher at the School of Public Policy, IIT Delhi. Before that, I was a postdoctoral research associate at Princeton University, specializing in power systems engineering and energy transition research. My current work explores the intersection of climate change, energy system decarbonization, and their socio-economic implications. My research interests include net-zero energy transition, energy system modeling, energy inequality,  and understanding the socio-economic and political linkages of energy transition. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I hold a master's degree in Power and Energy Systems Engineering from Bangalore University and earned Ph.D. from IIT Bombay. My doctoral dissertation delves into the evolution of rural electrification policies in India, concurrently analyzing electricity consumption inequalities within the country. 
+
+Additionally, I am is affiliated with Transitions Research Goa (https://transitionsresearch.org/about). I am an amateur chess and badminton player, an avid reader, and an outdoor enthusiast.
 
 A data-driven personal website
 ======
