@@ -1,33 +1,90 @@
-main:
-
-  - title: Understanding Energy Inequality in India
-    authors: <strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B,.
-    #conference_short: MICCAI
-    Report: State of India’s Environment Report 2022.
-    pdf: https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
-    #notes: Early Accept
+# Book Chapters Section
+book_chapters:
+  - title: "Understanding Energy Inequality in India"
+    authors: "<strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B."
+    conference: "State of India’s Environment Report 2022, Center for Science and Environment, New Delhi"
+    pub_date: "2022-01-01"
+    pdf: "https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html"
 
   - title: "Analysing the Inequality Pathways of Domestic Electricity Consumption in India"
-    authors: <strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B,.
-    #conference_short: CVPR
-    book chapter: In: Singh S., Ramadesigan V. (eds) Advances in Energy Research, vol. 1, 2020, pp. 715 – 727, Springer Proceedings in Energy, Springer, Singapore.
-   # pdf: https://arxiv.org/pdf/2002.10211.pdf
-   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_68
-   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-   # notes: Oral Presentation
-   # image: ./assets/img/teaser_example.png
+    authors: "<strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B."
+    conference: "Advances in Energy Research, vol. 1, Springer Proceedings in Energy"
+    pub_date: "2020-01-01"
+    page: "https://link.springer.com/chapter/10.1007/978-981-15-2666-4_68"
 
-   - title: "How Do Supply-Side Constraints Affect the Rural Residential Feeder Parameters?"
-    authors: Swami S., <strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B,.
-    #conference_short: CVPR
-    book chapter: In: Singh S., Ramadesigan V. (eds) Advances in Energy Research, vol. 1, 2020, pp. 505 – 518, Springer Proceedings in Energy, Springer, Singapore.
-   # pdf: https://arxiv.org/pdf/2002.10211.pdf
-   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_49
-   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-   # notes: Oral Presentation
-   # image: ./assets/img/teaser_example.png
+  - title: "How Do Supply-Side Constraints Affect the Rural Residential Feeder Parameters?"
+    authors: "Swami S., <strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B."
+    conference: "Advances in Energy Research, vol. 1, Springer Proceedings in Energy"
+    pub_date: "2020-01-02"
+
+# Journal Publications Section
+journals:
+  - title: "Potential of India’s AFOLU sector in achieving net zero: A systematic review of land-based mitigation strategies"
+    authors: "Gwal, S., Sharma, A., Pascale, A., Dasgupta, R., <strong>Ganesh Hegde</strong>, & Greig, C."
+    conference: "Land Use Policy, 159, 107798"
+    pub_date: "2025-01-01"
+    paper_url: "https://doi.org/10.1016/j.landusepol.2024.107798"
+
+  - title: "Missing Linkages in the Electricity–Water Nexus in Indian Agriculture"
+    authors: "Sawant N and <strong>Hegde G.</strong>"
+    conference: "Economic and Political Weekly, vol. 57, issue 39"
+    pub_date: "2022-09-01"
+
+  - title: "The uneven expansion of electricity supply in India: The logics of clientelism, incrementalism and maximin"
+    authors: "Arranz A.M., Thomson R., Zech S., <strong>Hegde G.</strong>, Arunachalam D., and Rao A.B."
+    conference: "Energy Research and Social Science, vol. 78, 102126"
+    pub_date: "2021-08-01"
+
+  - title: "Energy Trajectory in India: Challenges and Opportunities for Innovation"
+    authors: "Ramachandra T.V. and <strong>Hegde G.</strong>"
+    conference: "Journal of Resources, Energy and Development, vol. 12 (1&2), pp. 1-24"
+    pub_date: "2015-01-01"
+
+  - title: "Scope for Solar Energy in Uttara Kannada, Karnataka state, India: Rooftop PV for Domestic Electricity and Standalone Systems for Irrigation"
+    authors: "Ramachandra T.V., <strong>Hegde G.</strong>, and Krishnadas G."
+    conference: "Productivity, vol. 55, pp. 101-119"
+    pub_date: "2014-01-01"
+
+  - title: "Potential Assessment and Decentralised Applications of Wind Energy in Uttara Kannada, Karnataka"
+    authors: "Ramachandra T.V., <strong>Hegde G.</strong>, and Krishnadas G."
+    conference: "International Journal of Renewable Energy Research, vol. 4, no. 1"
+    pub_date: "2014-01-02"
+
+  - title: "Bioenergy: A sustainable Energy Option for Rural India"
+    authors: "Ramachandra T.V., <strong>Hegde G.</strong>, Setturu B., and Krishnadas G."
+    conference: "Advances in Forestry Letters (AFL), vol. 3, issue 1"
+    pub_date: "2014-01-03"
+
+  - title: "Decentralized Renewable Energy Options for the Western Ghats"
+    authors: "Ramachandra T.V. and <strong>Hegde G.</strong>"
+    conference: "The Journal of MGIRED, vol. 1, issue 1, pp. 24-43"
+    pub_date: "2014-01-04"
+
+# Conference Papers Section
+conferences:
+  - title: "Tracing the Contours of Inequality in Household Electricity Consumption in India"
+    authors: "<strong>Hegde G.</strong>, Agnihotri S.B., and Rao A.B."
+    conference: "36th International Energy Workshop (IEW), University of Maryland"
+    pub_date: "2017-07-12"
+
+  - title: "Scope for Distributed Renewable Energy Systems in South India"
+    authors: "Ramachandra T.V. and <strong>Hegde G.</strong>"
+    conference: "IEEE Global Humanitarian Technology Conference, South Asia Satellite"
+    pub_date: "2014-09-26"
+
+  - title: "Energy Latitude in Western Ghats through Decentralized Renewable Energy Resources"
+    authors: "Ramachandra T.V. and <strong>Hegde G.</strong>"
+    conference: "SYNERGY with ENERGY: 9th National Conference on Indian Energy Sector"
+    pub_date: "2014-05-23"
+
+# Technical Reports Section
+reports:
+  - title: "Solar Energy – The Sustainable Energy Option in Karnataka"
+    authors: "Ramachandra T.V., <strong>Hegde G.</strong>, and Jain R."
+    conference: "CES Technical Report 132, Indian Institute of Science, Bangalore"
+    pub_date: "2014-06-01"
+
+  - title: "Sustainable Energy Alternatives for Uttara Kannada"
+    authors: "Ramachandra T.V., Chandran S.M.D., Joshi N.V., <strong>Hegde G.</strong> and Krishnadas G."
+    conference: "ENVIS Technical Report 58, Indian Institute of Science, Bangalore"
+    pub_date: "2014-05-01"
