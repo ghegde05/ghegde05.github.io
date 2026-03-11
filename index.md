@@ -1,36 +1,7 @@
----
-layout: homepage
----
+# Welcome to My Homepage!
 
-## about me
+Hello! I'm glad you're here. This is my personal website where you can learn more about me and my work.
 
-I am currently a Schimdt Sciences visiting researcher at the School of Public Policy, IIT Delhi. Before that, I was a postdoctoral research associate at Princeton University, specializing in power systems engineering and energy transition research. My current work explores the intersection of climate change, energy system decarbonization, and their socio-economic implications. My research interests include net-zero energy transition, energy system modeling, energy inequality, and understanding the socio-economic and political linkages of energy transition.
+Feel free to explore and check out the [About Me](about.md) page to discover more about my background and interests.
 
-I hold a master’s degree in Power and Energy Systems Engineering from Bangalore University and earned Ph.D. from IIT Bombay. My doctoral dissertation delves into the evolution of rural electrification policies in India, concurrently analyzing electricity consumption inequalities within the country.
-
-Additionally, I am affiliated with Transitions Research Goa (https://transitionsresearch.org/about). I am an amateur chess and badminton player, an avid reader, and an outdoor enthusiast.
-
-## research interests
-
-- economy-wide energy transition
-- energy, development and inquality
-- systems approach and geo-spatial modeling
-- socio-political systems 
-
-
-## technical toolkit
-
-- **Modeling & Simulation**: Macro-Energy Systems, optimization.
-- **Geo-spatial Tools**: QGIS, ArcGIS Pro, Google Earth Engine.
-- **Statistical Analysis**: R, Python, STATA, IBM SPSS.
-- **Specialized Training**: Smart Transmission Grids, Solar PV Grid-Connected Plants, decentralised electrification, SCADA/EMS
-
-## news and misc.
-
-- **recent paper**:
-- **working paper/project**:
-- **recommendation(s)**:
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+Happy browsing!
