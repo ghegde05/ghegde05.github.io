@@ -1,51 +1,26 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+## publications
 
-<div class="publications">
-<ol class="bibliography">
+<h4 style="margin:0 10px 0;">book chapters</h4>
 
-{% for link in site.data.publications.main %}
+<ul style="margin:0 0 20px;">
+  <li><a href="https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html"><autocolor>Understanding Energy Inequality in India</autocolor></a></li>
+</ul>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-<br>
+<ul style="margin:0 0 20px;">
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_68"><autocolor>Analysing the Inequality Pathways of Domestic Electricity Consumption in India</autocolor></a></li>
+</ul>
 
-{% endfor %}
 
-</ol>
-</div>
+<h4 style="margin:0 10px 0;">journal</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://doi.org/10.1016/j.landusepol.2025.107798"><autocolor>Potential of India’s AFOLU sector in achieving net zero: A systematic review of land-based mitigation strategies</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="http://dspace.library.iitb.ac.in/xmlui/handle/100/38860"><autocolor>Missing Linkages in the Electricity–Water Nexus in Indian Agriculture</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S221462962100219X?dgcid=coauthor"><autocolor>The uneven expansion of electricity supply in India: The logics of clientelism, incrementalism and maximin</autocolor></a></li>
+</ul>
