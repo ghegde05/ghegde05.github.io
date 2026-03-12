@@ -12,7 +12,8 @@ I still don't know how one gets born as a human. Of all the trillions of combina
 
 ### *Longing is the cure...*
 It wasn't supposed to be like this. Indeed, not for so long. All it took was a really stupid idea. A daring one, in my defense. A temptation that eventually got the approval of the universe. A palpable urge to take a little peek into the most amusing world. A kaleidoscope of possibilities. Confidence to bridge the longing with destiny. Or perhaps, after all, all this was inevitable!
-##Longing is the cure... until you meet.
+
+Longing is the cure... until you meet.
 
 ---
 
