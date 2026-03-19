@@ -6,7 +6,7 @@ I am currently a Schmidt Sciences visiting researcher at the School of Public Po
 
 I hold a master's degree in Power and Energy Systems Engineering from Bangalore University and earned Ph.D. from IIT Bombay. My doctoral dissertation delves into the evolution of rural electrification policies in India, concurrently analyzing electricity consumption inequalities in rural and urban areas across states. 
 
-Additionally, I am affiliated with Transitions Research Goa (https://transitionsresearch.org/about). I am an amateur chess and badminton player, enjyoing reading, coffee and nature.
+Additionally, I am affiliated with [Transitions Research Goa](https://transitionsresearch.org/about). I am an amateur chess and badminton player, enjyoing reading, coffee and nature.
 
 ## research interests
 
