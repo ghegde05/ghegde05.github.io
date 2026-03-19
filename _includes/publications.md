@@ -2,11 +2,11 @@
 
 <h4 style="margin:0 10px 0;">book chapters</h4>
 
-<ul style="margin:0 0 20px; list-style: none; padding: 0;">
-  <li>Understanding Energy Inequality in India (<a href="https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html" style="text-decoration: none; border-bottom: 1px solid;">paper</a>)</li>
+<ul style="margin:0 0 20px;">
+  <li>Understanding Energy Inequality in India (<a href="https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html">paper</a>)</li>
 </ul>
-<ul style="margin:0 0 20px; list-style: none; padding: 0;">
-  <li>Analysing the Inequality Pathways of Domestic Electricity Consumption in India (<a href="https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_68" style="text-decoration: none; border-bottom: 1px solid;">paper</a>)</li>
+<ul style="margin:0 0 20px;">
+  <li>Analysing the Inequality Pathways of Domestic Electricity Consumption in India (<a href="https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_68">paper</a>)</li>
 </ul>
 
 
