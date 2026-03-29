@@ -151,11 +151,11 @@ darkonly {
 
 education {
     font-weight: 500;
-    font-size: 115%;
+    font-size: 125%;
   }
 papertitle {
     font-weight: 600;
-    font-size: 100%;
+    font-size: 110%;
   }
 
 @media (prefers-color-scheme: dark) {
@@ -216,7 +216,7 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
+        width: 65%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -225,7 +225,7 @@ papertitle {
 
     #header .image.avatar {
       margin: 0 0 1em 0;
-      width: 8.00em;
+      width: 10.00em;
     }
 
 h3, h4, h5, h6 {
@@ -244,7 +244,7 @@ h2 {
   color:#043361;
   font-weight: 500;
   margin:2px 0px 15px;
-  font-size: 157%;
+  font-size: 170%;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -266,7 +266,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:32px;
 }
 
 a {
