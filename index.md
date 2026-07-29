@@ -53,6 +53,28 @@ Additionally, I am affiliated with <a href="https://transitionsresearch.org/abou
 - **Statistical Analysis:** R, Python, STATA, IBM SPSS
 - **Specialized Training:** Smart Transmission Grids, Solar PV Grid-Connected Plants, decentralised electrification, SCADA/EMS
 
+## education
+
+- **PhD, Energy Systems and Public Policy** (2021) — Centre for Technology Alternatives for Rural Areas, Indian Institute of Technology Bombay, Mumbai, India. Thesis: "Understanding Rural Electrification Policy Evolution and Inequality in Residential Electricity Consumption in India" — Best PhD Thesis Award.
+- **ME, Power and Energy Systems** (2015) — Bangalore University, Bengaluru, India. Dissertation: "GIS-based Renewable Energy Potential Assessment and Decentralised Energy Planning".
+- **BE, Electrical and Electronics Engineering** (2012) — Visvesvaraya Technological University (VTU), Karnataka, India.
+
+## experience
+
+- **Associate Fellow**, Transitions Research, Goa, India (Oct 2023 – Jul 2026)
+- **Schmidt Sciences Visiting Research Scholar**, School of Public Policy, IIT Delhi, India (Feb 2026 – Jun 2026)
+- **Postdoctoral Research Associate**, Energy Systems Analysis Group, Andlinger Center for Energy and the Environment, Princeton University, NJ, USA (Mar 2022 – Dec 2025)
+- **Project Coordinating Officer**, TUM SEED Centre (Technical University of Munich – IIT Bombay), Mumbai, India (Sep 2020 – Nov 2021)
+- **Research Consultant**, IIT Bombay–Monash Research Academy, Mumbai, India (Nov 2018 – Jun 2019)
+- **Project Staff / Research Assistant**, Energy and Wetlands Research Group, Centre for Ecological Sciences, Indian Institute of Science, Bengaluru, India (Jun 2012 – May 2015)
+
+## grants, fellowships and awards
+
+- **Schmidt Sciences Visiting Research Fellowship** (2026) — competitive visiting fellowship supporting net-zero pathway research at IIT Delhi.
+- **Best PhD Thesis Award** (2022) — Centre for Technology Alternatives for Rural Areas, Indian Institute of Technology Bombay.
+- **Best Poster Award** (2017) — 6th International Conference on Advances in Energy Research (ICAER), IIT Bombay.
+- **Sahyadri Young Ecologist Award** (2014) — LAKE 2014, Energy and Wetlands Research Group, Centre for Ecological Sciences, Indian Institute of Science, Bengaluru.
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
