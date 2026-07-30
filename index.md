@@ -31,6 +31,12 @@ layout: homepage
     background-color: rgba(211, 47, 47, 0.05);
   }
 </style>
+
+## research profile
+
+Energy systems researcher working at the intersection of decarbonisation, equity and development, with 5+ years of research experience across India and the United States. Combining macro-energy systems modeling with geospatial analysis and developmental needs to study what it takes to achieve economy-wide decarbonization. Interested in understanding what the different pathways of energy transitions are and their implications on infrastructure development, natural resources, and political economy. Led the net-zero India pathway modelling and sub-national downscaling programme at Princeton's Andlinger Center in collaboration with IIT Delhi. Published on electricity inequality, rural electrification policy, renewable resource assessment and energy design and implementation of energy systems. Experienced in building research partnerships between inter- and transdisciplinary institutions and in translating modelling results for policy and community stakeholders.
+
+
 ## about me
 
 I am currently a Schmidt Sciences visiting researcher at the School of Public Policy, IIT Delhi. Before that, I was a postdoctoral research associate at Princeton University, specializing in power systems engineering and energy transition research. My work aims to contribute to the understanding of climate change and energy system decarbonization, fostering a sense of shared purpose with peers.
