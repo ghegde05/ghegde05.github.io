@@ -31,6 +31,12 @@ layout: homepage
     background-color: rgba(211, 47, 47, 0.05);
   }
 </style>
+
+## research profile
+
+Energy systems researcher working at the intersection of decarbonisation, equity and development, with 5+ years of research experience across India and the United States. Combining macro-energy systems modeling with geospatial analysis and developmental needs to study what it takes to achieve economy-wide decarbonization. Interested in understanding what the different pathways of energy transitions are and their implications on infrastructure development, natural resources, and political economy. Led the net-zero India pathway modelling and sub-national downscaling programme at Princeton's Andlinger Center in collaboration with IIT Delhi. Published on electricity inequality, rural electrification policy, renewable resource assessment and energy design and implementation of energy systems. Experienced in building research partnerships between inter- and transdisciplinary institutions and in translating modelling results for policy and community stakeholders.
+
+
 ## about me
 
 I am an Associate Fellow – Energy at <a href="https://transitionsresearch.org/about" target="_blank">Transitions Research</a>, Goa, where I lead the organisation's energy research and urban energy transition portfolio. My work there spans setting research agendas and frameworks, designing and delivering energy transition programmes in Indian cities, preparing city-level greenhouse gas emissions inventories, and translating evidence into policy briefs and practical recommendations.
