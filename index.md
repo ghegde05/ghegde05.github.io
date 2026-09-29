@@ -39,11 +39,13 @@ Energy systems researcher working at the intersection of decarbonisation, equity
 
 ## about me
 
-I am currently a Schmidt Sciences visiting researcher at the School of Public Policy, IIT Delhi. Before that, I was a postdoctoral research associate at Princeton University, specializing in power systems engineering and energy transition research. My work aims to contribute to the understanding of climate change and energy system decarbonization, fostering a sense of shared purpose with peers.
+I am an Associate Fellow – Energy at <a href="https://transitionsresearch.org/about" target="_blank">Transitions Research</a>, Goa, where I lead the organisation's energy research and urban energy transition portfolio. My work there spans setting research agendas and frameworks, designing and delivering energy transition programmes in Indian cities, preparing city-level greenhouse gas emissions inventories, and translating evidence into policy briefs and practical recommendations.
 
-I hold a master’s degree in Power and Energy Systems Engineering from  Bangalore University and earned a Ph.D. from IIT Bombay. My doctoral dissertation delves into the evolution of rural electrification policies in India, while concurrently analyzing electricity consumption inequalities between rural and urban areas across states.
+Before this, I was a Schmidt Sciences visiting research scholar at the School of Public Policy, IIT Delhi, and a postdoctoral research associate at Princeton University's Andlinger Center for Energy and the Environment, specializing in power systems engineering and energy transition research. My work aims to contribute to the understanding of climate change and energy system decarbonization.
 
-Additionally, I am affiliated with <a href="https://transitionsresearch.org/about" target="_blank">Transitions Research Goa</a>. I am an amateur chess and badminton player, and I enjoy reading, coffee, and nature.
+I hold a master’s degree in Power and Energy Systems Engineering from Bangalore University and earned a Ph.D. from IIT Bombay. My doctoral dissertation delves into the evolution of rural electrification policies in India, while concurrently analyzing electricity consumption inequalities between rural and urban areas across states.
+
+I am an amateur chess and badminton player, and I enjoy reading, coffee, and nature.
 
 ## research interests
 
@@ -51,6 +53,8 @@ Additionally, I am affiliated with <a href="https://transitionsresearch.org/abou
 - energy, development and inequality
 - systems approach and geo-spatial modeling
 - socio-political systems
+
+{% include_relative _includes/ongoing.md %}
 
 ## technical toolkit
 
@@ -67,6 +71,7 @@ Additionally, I am affiliated with <a href="https://transitionsresearch.org/abou
 
 ## experience
 
+- **Associate Fellow – Energy**, Transitions Research, Goa, India (Aug 2026 – present)
 - **Associate Fellow**, Transitions Research, Goa, India (Oct 2023 – Jul 2026)
 - **Schmidt Sciences Visiting Research Scholar**, School of Public Policy, IIT Delhi, India (Feb 2026 – Jun 2026)
 - **Postdoctoral Research Associate**, Energy Systems Analysis Group, Andlinger Center for Energy and the Environment, Princeton University, NJ, USA (Mar 2022 – Dec 2025)
