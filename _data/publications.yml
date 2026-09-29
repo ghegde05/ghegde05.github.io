@@ -39,14 +39,56 @@ journals:
     conference: "Journal of Resources, Energy and Development, vol. 12 (1&2)"
     pub_date: "2015-01-01"
 
+  - title: "Scope for Solar Energy in Uttara Kannada, Karnataka State, India: Rooftop PV for Domestic Electricity and Standalone Systems for Irrigation"
+    authors: "Ramachandra T.V., <strong>Hegde G.</strong>, and Krishnadas G."
+    conference: "Productivity, 55, 101–119"
+    pub_date: "2014-01-01"
+
+  - title: "Potential Assessment and Decentralised Applications of Wind Energy in Uttara Kannada, Karnataka"
+    authors: "Ramachandra T.V., <strong>Hegde G.</strong>, and Krishnadas G."
+    conference: "International Journal of Renewable Energy Research, 4(1), 1–10"
+    pub_date: "2014-01-02"
+
+  - title: "Bioenergy: A Sustainable Energy Option for Rural India"
+    authors: "Ramachandra T.V., <strong>Hegde G.</strong>, Setturu B., and Krishnadas G."
+    conference: "Advances in Forestry Letters, 3(1), 1–15"
+    pub_date: "2014-01-03"
+
+  - title: "Decentralized Renewable Energy Options for the Western Ghats"
+    authors: "Ramachandra T.V. and <strong>Hegde G.</strong>"
+    conference: "Journal of MGIRED, 1(1), 24–43"
+    pub_date: "2014-01-04"
+
+manuscripts_in_prep:
+  - title: "Anticipating Resistance and Opportunities in the Siting of Large-Scale Renewable Energy Projects in India"
+    authors: "<strong>Hegde G.</strong> et al."
+
+  - title: "VRE Siting Challenges in India: An Expert Elicitation for Net-Zero Pathways"
+    authors: "<strong>Hegde G.</strong> et al."
+
 conferences:
   - title: "Tracing the Contours of Inequality in Household Electricity Consumption in India"
     authors: "<strong>Hegde G.</strong>, Agnihotri S.B., and Rao A.B."
     conference: "36th International Energy Workshop (IEW), University of Maryland"
     pub_date: "2017-07-12"
 
+  - title: "Scope for Distributed Renewable Energy Systems in South India"
+    authors: "Ramachandra T.V. and <strong>Hegde G.</strong>"
+    conference: "IEEE Global Humanitarian Technology Conference – South Asia Satellite, Kottayam, Kerala"
+    pub_date: "2014-09-26"
+
+  - title: "Energy Latitude in Western Ghats Through Decentralized Renewable Energy Resources"
+    authors: "Ramachandra T.V. and <strong>Hegde G.</strong>"
+    conference: "SYNERGY with ENERGY: 9th National Conference on the Indian Energy Sector, Ahmedabad, India"
+    pub_date: "2014-05-23"
+
 reports:
   - title: "Solar Energy – The Sustainable Energy Option in Karnataka"
     authors: "Ramachandra T.V., <strong>Hegde G.</strong>, and Jain R."
     conference: "CES Technical Report 132, Indian Institute of Science, Bangalore"
     pub_date: "2014-06-01"
+
+  - title: "Sustainable Energy Alternatives for Uttara Kannada"
+    authors: "Ramachandra T.V., Chandran S.M.D., Joshi N.V., <strong>Hegde G.</strong>, and Krishnadas G."
+    conference: "ENVIS Technical Report 58, Indian Institute of Science, Bangalore"
+    pub_date: "2014-06-02"
