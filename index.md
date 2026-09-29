@@ -39,7 +39,7 @@ Energy systems researcher working at the intersection of decarbonisation, equity
 
 ## about me
 
-I am Senior Fellow – Energy at <a href="https://transitionsresearch.org/about" target="_blank">Transitions Research</a>, Goa, where I lead the organisation's energy research and urban energy transition portfolio. My work there spans setting research agendas and frameworks, designing and delivering energy transition programmes in Indian cities, preparing city-level greenhouse gas emissions inventories, and translating evidence into policy briefs and practical recommendations.
+I am a Senior Fellow – Energy at <a href="https://transitionsresearch.org/about" target="_blank">Transitions Research</a>, Goa, where I lead the organisation's energy research and urban energy transition portfolio. My work there spans setting research agendas and frameworks, designing and delivering energy transition programmes in Indian cities, preparing city-level greenhouse gas emissions inventories, and translating evidence into policy briefs and practical recommendations.
 
 Before this, I was a Schmidt Sciences visiting research scholar at the School of Public Policy, IIT Delhi, and a <a href="https://cmi.princeton.edu/people/ganesh-hegde/" target="_blank">postdoctoral research associate</a> at Princeton University's Andlinger Center for Energy and the Environment, specializing in power systems engineering and energy transition research. My research at Princeton focused on developing India’s energy pathways for achieving Net-Zero carbon emissions. My research work focuses energy system modeling, energy inequality, policy analysis, and understanding technology-development linkages, while contributing to climate action and energy system decarbonisation.
 
