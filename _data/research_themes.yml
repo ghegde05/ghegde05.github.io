@@ -1,0 +1,45 @@
+# Research theme cards shown under "research interests" on the homepage.
+# Each theme has a title, a one-sentence summary and optional links to related work.
+# Links can point to a paper URL or to a section on the page (e.g. "#ongoing-work").
+
+- title: economy-wide energy transition
+  icon: fa-solid fa-bolt
+  summary: >-
+    Pathways to net-zero for India, from national energy system models down to
+    sub-national and city-level transitions, and what they imply for
+    infrastructure and land.
+  links:
+    - label: AFOLU and net zero (Land Use Policy, 2025)
+      url: https://doi.org/10.1016/j.landusepol.2025.107798
+    - label: cooling demand flexibility
+      url: "#ongoing-work"
+
+- title: energy, development and inequality
+  icon: fa-solid fa-scale-balanced
+  summary: >-
+    Who gets electricity, how much, and why — rural electrification policy and
+    inequality in household electricity consumption across Indian states.
+  links:
+    - label: energy inequality in India (CSE, 2022)
+      url: https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html
+    - label: inequality pathways (Springer, 2020)
+      url: https://link.springer.com/chapter/10.1007/978-981-15-2666-4_68
+
+- title: systems approach and geo-spatial modeling
+  icon: fa-solid fa-map-location-dot
+  summary: >-
+    Combining energy system optimization with GIS to assess renewable
+    potential, siting and decentralised energy planning.
+  links:
+    - label: supply-side constraints on rural feeders (Springer, 2020)
+      url: https://link.springer.com/chapter/10.1007/978-981-15-2666-4_49
+
+- title: socio-political systems
+  icon: fa-solid fa-landmark
+  summary: >-
+    The politics and institutions behind energy infrastructure — how
+    clientelism, incrementalism and local resistance shape where and how
+    energy systems expand.
+  links:
+    - label: uneven expansion of electricity supply (ERSS, 2021)
+      url: https://www.sciencedirect.com/science/article/pii/S221462962100219X

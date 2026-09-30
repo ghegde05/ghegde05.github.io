@@ -8,7 +8,13 @@ email: ganesh(at)transitionsresearch.org
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: energy transition, net zero India, modeling, GIS
 description: Ganesh Hegde is an energy systems and public policy researcher working on urban energy transitions, net zero pathways and energy inequality in India.
-canonical: 
+canonical: https://ghegde05.github.io/
+
+# Site address, used to build absolute links for link previews (Open Graph / X cards)
+url: https://ghegde05.github.io
+# Image shown when the site is shared on LinkedIn, WhatsApp, X, etc.
+share_image: assets/img/share.jpg
+share_title: "Ganesh Hegde | Senior Fellow – Energy, Transitions Research"
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -33,7 +39,7 @@ nav:
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/GH_L_Res.png
+avatar: ./assets/img/avatar-480.jpg
 favicon: ./assets/img/gh.png
 favicon_dark: ./assets/img/gh.png
 
@@ -52,6 +58,10 @@ font: "Sans Serif" # or "Sans Serif"
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 #google_analytics: UA-111540567-4
+
+# Visitor analytics with GoatCounter (free, privacy-friendly, no cookie banner needed).
+# Sign up at https://www.goatcounter.com, then put your site code here (e.g. "ghegde05").
+# goatcounter: 
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll

@@ -14,6 +14,23 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
+    <!-- Link previews (LinkedIn, WhatsApp, X, Slack, etc.) -->
+    {% assign share_title = site.share_title | default: site.title %}
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="{{ share_title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% if site.share_image %}
+    <meta property="og:image" content="{{ site.share_image | absolute_url }}">
+    <meta property="og:image:alt" content="Photo of {{ site.title }}">
+    {% endif %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ share_title }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% if site.share_image %}
+    <meta name="twitter:image" content="{{ site.share_image | absolute_url }}">
+    {% endif %}
+
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
@@ -105,7 +122,7 @@
 
       {{ content }}
 
-      <br>
+      <p class="last-updated">last updated {{ site.time | date: "%-d %B %Y" | downcase }}</p>
 
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
@@ -138,6 +155,39 @@
         });
       })();
     </script>
+    {% endif %}
+    <script>
+      // Fade sections in as they scroll into view. Content stays visible
+      // without JavaScript or when the visitor prefers reduced motion.
+      (function () {
+        if (!('IntersectionObserver' in window)) return;
+        if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+        var items = document.querySelectorAll('section > h2, section > p, section > ul, section > .theme-grid, section > .ongoing-list');
+        var observerReady = false;
+        function revealAll() {
+          document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+        // Never leave content hidden: reveal everything if the observer doesn't
+        // respond (e.g. throttled rendering) and before printing.
+        setTimeout(function () { if (!observerReady) revealAll(); }, 1500);
+        window.addEventListener('beforeprint', revealAll);
+        var observer = new IntersectionObserver(function (entries) {
+          observerReady = true;
+          entries.forEach(function (entry) {
+            if (!entry.isIntersecting) return;
+            entry.target.classList.add('is-visible');
+            observer.unobserve(entry.target);
+          });
+        }, { rootMargin: '0px 0px -40px 0px' });
+        items.forEach(function (el) {
+          if (el.getBoundingClientRect().top < window.innerHeight) return;
+          el.classList.add('reveal');
+          observer.observe(el);
+        });
+      })();
+    </script>
+    {% if site.goatcounter %}
+    <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
     {% endif %}
     {% if site.google_analytics %}
     <script>
