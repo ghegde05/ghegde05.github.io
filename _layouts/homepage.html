@@ -101,6 +101,11 @@
         </a>
         {% endif %}
 
+        <a class="share-button" style="margin: 0 8px 0 0" href="{{ site.url | default: '.' }}" title="Share profile" aria-label="Share profile">
+          <i class="fa-solid fa-share-nodes"></i>
+          <span class="share-toast" role="status" aria-live="polite"></span>
+        </a>
+
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}" target="_blank">
           <i class="fab fa-x-twitter"></i>
@@ -156,6 +161,39 @@
       })();
     </script>
     {% endif %}
+    <script>
+      // Share button: native share sheet where available (mostly phones),
+      // otherwise copy the profile link to the clipboard.
+      (function () {
+        var button = document.querySelector('.share-button');
+        if (!button) return;
+        var toast = button.querySelector('.share-toast');
+        var shareData = {
+          title: {{ site.share_title | default: site.title | jsonify }},
+          text: {{ site.description | jsonify }},
+          url: button.href
+        };
+        function showToast(message) {
+          toast.textContent = message;
+          toast.classList.add('visible');
+          clearTimeout(showToast.timer);
+          showToast.timer = setTimeout(function () { toast.classList.remove('visible'); }, 1800);
+        }
+        button.addEventListener('click', function (event) {
+          event.preventDefault();
+          if (navigator.share) {
+            navigator.share(shareData).catch(function () {});
+          } else if (navigator.clipboard) {
+            navigator.clipboard.writeText(shareData.url).then(
+              function () { showToast('link copied'); },
+              function () { showToast(shareData.url); }
+            );
+          } else {
+            showToast(shareData.url);
+          }
+        });
+      })();
+    </script>
     <script>
       // Fade sections in as they scroll into view. Content stays visible
       // without JavaScript or when the visitor prefers reduced motion.
