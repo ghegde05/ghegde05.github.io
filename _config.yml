@@ -18,6 +18,19 @@ cv_link: assets/files/CV_Ganesh_Hegde_Jul_2026.pdf
 linkedin: https://www.linkedin.com/in/ganesh-hegde-princeton/
 # twitter: https://twitter.com/
 
+# Sidebar navigation
+# Each entry links to a section heading on the homepage. The anchor is the
+# heading text in lowercase with spaces replaced by hyphens.
+nav:
+  - title: updates
+    anchor: updates
+  - title: research interests
+    anchor: research-interests
+  - title: ongoing work
+    anchor: ongoing-work
+  - title: publications
+    anchor: publications
+
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/GH_L_Res.png

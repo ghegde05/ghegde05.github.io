@@ -47,6 +47,12 @@ I hold a master’s degree in Power and Energy Systems Engineering from Bangalor
 
 I am an amateur chess and badminton player, and I enjoy reading, coffee, and nature.
 
+## updates
+
+- **Aug 2026** — Joined Transitions Research, Goa, as Senior Fellow – Energy.
+- **Feb 2026** — Began a Schmidt Sciences Visiting Research Fellowship at the School of Public Policy, IIT Delhi.
+- **2025** — Paper on the potential of India's AFOLU sector in achieving net zero published in *Land Use Policy* (<a href="https://doi.org/10.1016/j.landusepol.2025.107798" target="_blank">paper</a>).
+
 ## research interests
 
 - economy-wide energy transition
