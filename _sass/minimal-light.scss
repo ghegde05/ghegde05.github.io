@@ -783,3 +783,37 @@ section a:hover {
     color: #8a8b93;
   }
 }
+
+/* Share button in the sidebar */
+.share-button {
+  position: relative;
+  cursor: pointer;
+}
+
+.share-toast {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, 4px);
+  white-space: nowrap;
+  padding: 3px 8px;
+  border-radius: 4px;
+  background-color: #043361;
+  color: #fff;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.share-toast.visible {
+  opacity: 1;
+}
+
+@media (prefers-color-scheme: dark) {
+  .share-toast {
+    background-color: rgb(62, 183, 240);
+    color: #20212b;
+  }
+}
