@@ -49,6 +49,7 @@ I am an amateur chess and badminton player, and I enjoy reading, coffee, and nat
 
 ## updates
 
+- **Oct 2026** — Our Transitions Research team won US$50,000 in funding from C40 Cities to build an agent-based model of how city-level policies drive rooftop solar, battery and demand-flexibility adoption in Mumbai and Chennai. I am the Lead Modeller (see <a href="#ongoing-work">ongoing work</a>).
 - **Aug 2026** — Joined Transitions Research, Goa, as Senior Fellow – Energy.
 - **Feb 2026** — Began a Schmidt Sciences Visiting Research Fellowship at the School of Public Policy, IIT Delhi.
 - **2025** — Paper on the potential of India's AFOLU sector in achieving net zero published in *Land Use Policy* (<a href="https://doi.org/10.1016/j.landusepol.2025.107798" target="_blank">paper</a>).
